@@ -1,0 +1,86 @@
+[  
+   {  
+      "name":"J/'ai rencontré le diable",
+      "image":"http://aws.vdkimg.com/film/6/4/9/5/649594_poster_scale_188x250.jpg",
+      "storyline":"Soo-hyun, jeune agent des services secrets sud-coréen, se lance à la poursuite du tueur en série qui a tué sa fiancée alors enceinte, avec en tête un plan de vengeance aussi diabolique que l'est le criminel avec ses victimes. Ce jeu du chat et de la souris déclenchera une terrible vague de violence…",
+      "id":1,
+	  "slug":"Le-Diable"
+   },
+   {  
+      "name":"A bord du Darjeeling",
+      "image":"http://aws.vdkimg.com/film/4/2/1/8/4218_poster_scale_188x250.jpg",
+      "storyline":"Trois frères qui ne se sont pas parlé depuis la mort de leur père décident de faire ensemble un grand voyage en train à travers l'Inde afin de renouer les liens d'autrefois. Pourtant, la quête spirituelle de Francis, Peter et Jack va vite dérailler, et ils se retrouvent seuls, perdus au milieu du désert avec onze valises, une imprimante, une machine à plastifier et beaucoup de comptes à régler avec la vie... Dans ce pays magique dont ils ignorent tout, c'est alors un autre voyage qui commence, riche en imprévus, une odyssée qu'aucun d'eux ne pouvait imaginer, une véritable aventure d'amitié et de fraternité...",
+      "id":2,
+	  "slug":"Darjeeling"
+   },
+   {  
+      "name":"Goodbye Lenin!",
+      "image":"http://aws.vdkimg.com/film/6/8/8/7/6887_poster_scale_188x250.jpg",
+      "storyline":"Alex, un jeune Berlinois de l'Est, apprend la chute du mur alors que sa mère est dans le coma à la suite d'un infarctus. Celle-ci a toujours été quelqu'un d'actif, participant avec enthousiasme à l'animation d'une chorale.Les mois passent et le coma continue. La ville se transforme, les voitures occidentales sillonnent les rues, les publicités envahissent les murs. Au bout de huit mois, elle ouvre les yeux dans une ville qu'elle ne peut plus reconnaître. Alex veut absolument lui éviter un choc brutal que son coeur affaibli ne pourrait supporter.Profitant de son alitement, avec l'aide de sa famille et de ses amis, il reconstruit autour d'elle son univers familier, convoque les jeunes chanteurs de la chorale, sollicite l'aide d'un ancien cosmonaute, reconverti en chauffeur de taxi, et s'efforce de faire revivre la RDA dans les 79 m² de l'appartement, remis aux normes socialistes.",
+      "id":3,
+	  "slug":"Goodbye-Lenin"
+   },
+   {  
+      "name":"The Machinist",
+      "image":"http://aws.vdkimg.com/film/1/9/1/7/191795_poster_scale_188x250.jpg",
+      "storyline":"Trevor Reznik est ouvrier dans une usine. Un métier répétitif, fatiguant, usant, au milieu d'un bruit assourdissant, où la moindre inattention peut avoir des conséquences dramatiques. Une attention que Trevor a du mal à maintenir, car il est très fatigué. En fait, Trevor n'a pas dormi depuis un an.Il partage ses nuits entre la cafétéria de l'aéroport, où il retrouve Marie, la serveuse, et l'appartement de la prostituée Stevie.Depuis quelque temps, la vie de Trevor devient de plus en plus étrange. Qui laisse des messages codés dans son appartement ? Pourquoi Marie ressemble-t-elle tant à sa mère ? Quant à Stevie, elle semble bien connaître le nouvel employé de l'usine, Ivan. Pourquoi ne lui a-t-elle rien dit ? Un homme d'ailleurs très étrange, cet Ivan. Inquiétant, dérangeant, il semble surveiller sans cesse Trevor...",
+      "id":4,
+	  "slug":"The-Machinist"
+   },
+   {  
+      "name":"Brothers",
+      "image":"http://aws.vdkimg.com/film/8/8/7/1/88712_poster_scale_188x250.jpg",
+      "storyline":"Sam et Grace forment un couple parfait et sont les parents de deux petites filles. Sam est envoyé par l'ONU en mission à l'étranger et confie à Tommy, son frère tout juste sorti de prison, le soin de s'occuper de sa famille. Lorsque Sam est porté disparu et présumé mort, Tommy et Grace se rapprochent contre toute attente. C'est alors que Sam revient du front...",
+      "id":5,
+	  "slug":"Brothers"
+   },
+   {  
+      "name":"Les Affranchis",
+      "image":"http://aws.vdkimg.com/film/1/0/4/8/10489_poster_scale_188x250.jpg",
+      "storyline":"Depuis sa plus tendre enfance, Henry Hill, né d'un père irlandais et d'une mère sicilienne, veut devenir gangster et appartenir à la Mafia. Adolescent dans les années cinquante, il commence par travailler pour le compte de Paul Cicero et voue une grande admiration pour Jimmy Conway, qui a fait du détournement de camions sa grande spécialité. Lucide et ambitieux, il contribue au casse des entrepôts de l'aéroport d'Idlewild et épouse Karen, une jeune Juive qu'il trompe régulièrement. Mais son implication dans le trafic de drogue le fera plonger..",
+      "id":6,
+	  "slug":"Les-Affranchis"
+   },
+   {  
+      "name":"The Dark Knight Rises",
+      "image":"http://aws.vdkimg.com/film/6/9/6/5/696559_poster_scale_188x250.jpg",
+      "storyline":"Afin que l'image de l'ex-procureur Harvey Dent reste un modèle du genre pour les citoyens de Gotham City, Batman a endossé les crimes de ce dernier et a été chassé de la ville par les autorités. Huit ans plus tard, alors que Gotham City est de nouveau sûre, le commissaire Gordon tombe sur un complot qui vise à détruire la ville de l'intérieur. Il fait appel à Batman. Ce dernier devra faire face à la mystérieuse Selina Kyle et à Bane, un adversaire mortel, qui veut mettre en pièce le symbole Batman.",
+      "id":7,
+	  "slug":"Dark-Knight"
+   },
+   {  
+      "name":"Hannibal",
+      "image":"http://aws2.vdkimg.com/film/6/9/8/9/6989_poster_scale_188x250.jpg",
+      "storyline":"Il y a dix ans, le docteur Hannibal Lecter s'échappait de sa cellule. Clarice Starling, agent du FBI sur la touche, n'a pas oublié sa rencontre avec lui, sa présence troublante et le son grave de sa voix qui hantent toujours ses nuits.Mason Verger, un ancien patient, se souvient également d'Hannibal, puisqu'il a été sa quatrième victime. Malgré le fait qu'il ait été atrocement défiguré et mutilé, il a survécu. Il nourrit sa vengeance depuis dix ans. Devenu extrêmement riche, il promet une récompense de trois millions de dollars pour quiconque le repérera.L'inspecteur Rinaldo Pazzi lui téléphone pour l'informer de sa présence en Italie. En effet, après avoir changé d'identité, Hannibal est devenu le conservateur d'un musée à Florence. Et pour attirer ce dernier dans ses filets, Mason connaît un appât irrésistible : Clarice Starling. L'heure de la vengeance va peut-être sonner.",
+      "id":8,
+	  "slug":"Hannibal"
+   },
+   {  
+      "name":"Requiem For a Dream",
+      "image":"http://aws.vdkimg.com/film/6/2/1/7/62177_poster_scale_188x250.jpg",
+      "storyline":"Sara Goldfarb vit seule, à Coney Island. Mère juive, veuve et fantasque, elle vit dans l'espoir d'être un jour invitée sur le plateau de son émission télé préférée. Dans cette perspective, elle suit un régime draconien afin d'entrer dans la robe qu'elle portera le moment venu. Elle en oublie son fils, drogué et qui s'enfonce tous les jours un peu plus.",
+      "id":9,
+	  "slug":"Requiem"
+   },
+   {  
+      "name":"Black Swan",
+      "image":"http://aws.vdkimg.com/film/3/3/0/5/330572_poster_scale_188x250.jpg",
+      "storyline":"Rivalités dans la troupe du New York City Ballet. Nina est prête à tout pour obtenir le rôle principal du Lac des cygnes que dirige l’ambigu Thomas. Mais elle se trouve bientôt confrontée à la belle et sensuelle nouvelle recrue, Lily...",
+      "id":10,
+	  "slug":"Black-Swan"
+   },
+   {  
+      "name":"Orange mécanique",
+      "image":"http://aws.vdkimg.com/film/5/5/6/3/55630_poster_scale_188x250.jpg",
+      "storyline":"Au XXIème siècle, où règnent la violence et le sexe, Alex, jeune chef de bande, exerce avec sadisme une terreur aveugle. Après son emprisonnement, des psychanalystes l'emploient comme cobaye dans des expériences destinées à juguler la criminalité...",
+      "id":11,
+	  "slug":"orange"
+   },
+   {  
+      "name":"Snatch",
+      "image":"http://aws.vdkimg.com/film/7/9/6/6/79667_poster_scale_188x250.jpg",
+      "storyline":"Franky vient de voler un énorme diamant qu'il doit livrer à Avi, un mafieux new-yorkais. En chemin, il fait escale à Londres où il se laisse convaincre par Boris de parier sur un combat de boxe clandestin. Il ignore, bien sûr, qu'il s'agit d'un coup monté avec Vinny et Sol, afin de le délester de son magnifique caillou. Turkish et Tommy, eux, ont un problème avec leur boxeur, un gitan complètement fêlé qui refuse de se coucher au quatrième round comme prévu. C'est au tour d'Avi de débarquer, bien décidé à récupérer son bien, avec l'aide de Tony, une légende de la gâchette.",
+      "id":12,
+	  "slug":"Snatch"
+   }
+]
